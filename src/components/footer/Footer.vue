@@ -8,7 +8,11 @@
                     <router-link class="hover:text-teal-500 transition-all" to="/about"
                         active-class="text-teal-500">关于</router-link>
                 </div>
-                <div class="text-sm text-gray-400">© 2024 theguodong.com. All rights reserved.</div>
+                <div class="text-sm text-gray-400">
+                    <a class="hover:text-teal-500" href="https://beian.miit.gov.cn">浙ICP备2024102611号-1</a>
+                    <span class="px-5">© 2024 theguodong.com</span>
+                    <span>All rights reserved.</span>
+                </div>
             </div>
         </div>
     </div>
